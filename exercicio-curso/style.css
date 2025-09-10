@@ -1,0 +1,45 @@
+
+h2 {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: arial;
+    margin: 50px;
+}
+
+p {
+    font: #b2b2b2;
+}
+
+.blocks {
+    border-radius: 4px;
+    background: #111;
+    color: #fff;
+    padding: 30px;
+    margin: 20px;
+}
+
+span {
+    color: #febe01;
+}
+
+a {
+    display: inline-block;
+    border-radius: 4px;
+    background: #febe01;
+    text-decoration: none;
+    color: #332200;
+    padding: 10px;
+    
+}
+
+a:hover {
+    background: #dfaa0c;
+    color: #000;
+}
+
